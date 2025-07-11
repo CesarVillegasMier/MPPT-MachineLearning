@@ -14,3 +14,17 @@ This project explores intelligent Maximum Power Point Tracking (MPPT) for solar 
     💾 TinyML Deployment: Convert trained models to TensorFlow Lite and deploy on Arduino or ESP32 microcontrollers.
 
     📊 Simulation Tools: Visualize and debug with Python tools (Matplotlib, Plotly, Pandas).
+
+📌 Applications
+
+    ✅ Adaptive MPPT for off-grid solar systems
+
+    ✅ Smart energy controllers in embedded environments
+
+    ✅ Research on AI-powered power electronics
+
+    ✅ Educational use for control systems and reinforcement learning
+
+🤝 Contributions
+
+Pull requests, ideas, and discussions are welcome! Let’s build smarter solar systems together.
